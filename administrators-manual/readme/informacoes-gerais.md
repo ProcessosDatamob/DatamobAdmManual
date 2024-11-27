@@ -22,7 +22,6 @@ layout:
 * **\<NomeProduto> app -** Android app that collects usage and cosumption information from mobile devices. This app is installed by default in all devices enrolled in the system.
 * **Security Browser App -** Android Web browser app responsible for blocking web sites and monitoring user's navigation.
 * **Block SIM app -** Is responsible for blocking the SIM Card,  preventing from being used in another device.
-* **\<NomeProduto> IOS App -** IOS app that allows web browsing and collects information and the localization of the device.
 * **Mob Settings App** - This app is designed to streamline the management of essential mobile device settings, such as Bluetooth, Display, and Wi-Fi, without the need to directly access the device's settings menu.
 
 {% hint style="info" %}
