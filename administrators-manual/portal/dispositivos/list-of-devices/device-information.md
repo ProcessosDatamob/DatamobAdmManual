@@ -31,7 +31,7 @@ Below, we will detail the information contained in each of the fields in the ima
 * Group - group registered for the device;
 * Department - This is a free text field, meaning the administrators can type anything they wish. It indicates the unit or department of the organization to which the device is assigned.
 * User Phone - This is a free text field, meaning the administrators can type anything they wish. It indicates the phone number associated with the user of the device.
-* IMEI - internal and unique number for each device. In Android 10 it is no longer possible to capture this information from the device because we use another method to receive this information with URL Enrichment; UDID - Apple ID, the device's unique identifier number;&#x20;
+* IMEI - internal and unique number for each device. In Android 10 it is no longer possible to capture this information from the device because we use another method to receive this information with URL Enrichment; UDID - the device's unique identifier number;&#x20;
 * ICCID - SIM chip number; Model - device model;
 * Serial Number - device serial number;&#x20;
 * License - License number;
