@@ -14,14 +14,25 @@ To view or change company data, follow the steps below:
 
 ### Delete Company <a href="#id-2grqrue" id="id-2grqrue"></a>
 
-On the Company Information screen, you can delete the company using the "**Delete Company**" button, located next to the "Update" button.&#x20;
+In the Company Information screen, you can delete the company using the "Delete Company" button, located next to the "Update" button.
 
-This action leads to the deletion of the company's Google Play Managed account, the deletion of all registered devices and all policies and information.
+⚠️ This action is extremely critical and irreversible. Before proceeding, make sure you absolutely want to permanently delete the company and all associated information.
+
+#### **Impacts of Deletion:**
+
+* **Google Play Managed Account**: The company’s account will be permanently removed.
+* **Registered Devices**: All devices linked to the company will be deleted and will receive a wipe command, removing all data and settings.
+* **Policies and Information**: All configured policies and stored information will be deleted.
+* **Android Enterprise (AE) Configuration**: All Android Enterprise settings associated with the company will be removed.
+* **Users**: All users of the company, except the logged-in user, will be eliminated.
+* **Operator Lines**: It will be necessary to request the operator to deactivate all lines associated with the company’s devices.
 
 {% hint style="danger" %}
 **WARNING**
 
-This is an irreversible action. To effectively cancel the service, the company must contact the Customer Service channel and request that the service be canceled.
+This is an irreversible action. To effectively cancel the service, the company must contact the Customer Support channel and request service cancellation.
+
+Upon clicking the "Delete Company" button, the following confirmation screen will be displayed:
 {% endhint %}
 
 The screen below appears when you click on "**Delete Company**".
