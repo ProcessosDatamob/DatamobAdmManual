@@ -116,6 +116,28 @@ This operation allows you to delete a device. It clears the device's data and se
 A message is displayed on the screen for information and warning. The operation cannot be undone, so only confirm when you are sure you want to delete the device.
 {% endhint %}
 
+### **Remove Device with Locked CHIP**
+
+When sending the removal command for a device that is activated with the "Android - Block SIM" policy and has the CHIP locked, the administrator will be alerted to send a command to remove the CHIP lock before removing the device from the portal.
+
+After choosing to send the unlock command for the CHIP, and once the portal receives the confirmation of the CHIP lock removal on the device, the system will display the following message:
+
+"Do you really want to remove this device? This action cannot be undone."
+
+The options "Remove" and "Cancel" will be displayed. This functionality helps prevent issues with CHIP locking when removing devices from management.
+
+The system will show this message: "This device may have the SIM CHIP locked. Do you want to send a command to remove the 'CHIP Lock'?"
+
+When clicking "Yes", the CHIP lock removal command will be sent, and the system will show: "Command sent successfully! Please wait before attempting to remove the device again."
+
+The system will then wait for confirmation before allowing the removal of the device.
+
+The user of the device needs to click on the push notification or open the Block SIM app to perform the CHIP lock removal.
+
+If the administrator chooses not to send the command, the following message will be displayed:
+
+"By removing this device, the mobile data usage of the user's SIM CHIP may be blocked! Do you really want to remove this device? This action cannot be undone."
+
 ### **Remove Device with SIM Locked**
 
 When sending the removal command for a device that is activated under an Android Block SIM policy and has a locked SIM, the administrator will be alerted to send a command to remove the SIM lock before removing the device from the portal.

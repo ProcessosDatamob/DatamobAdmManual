@@ -1,12 +1,16 @@
 # DASHBOARD
 
-The purpose of this system screen is to enable the user to view and analyze the various consumption and usage data collected from the devices. All this data will be detailed in this section.
+<mark style="color:red;background-color:orange;">ALTERAR TODAS AS IMAGENS PARA APARECER O ÍCONE DE INFORMAÇÕES</mark>
 
-To find out how to access and analyze the data displayed on the Dashboard, follow the steps described in this section.
+The purpose of this system screen is to enable the user to view and analyze the various consumption and usage data collected from the devices. All this data will be detailed in this section. To find out how to access and analyze the data displayed on the Dashboard, follow the steps described in this section.
 
 The Dashboard screen can be considered the "Home Screen" of the system, as it is displayed as soon as you access the Portal, but it can also be accessed by clicking on the "Dashboard" menu. On first access, the user, device and consumption indicators will not yet have any information, so they will be set to zero.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+When hovering the mouse over the information icon next to each graph, you can view a detailed description that explains the data presented, making it easier to understand the displayed content and the context of the graph.
+{% endhint %}
 
 When you access the screen, all the information will be displayed separated into sections. Each section corresponds to a different piece of data collected from the device and all the information is displayed according to the options selected in the filter (Company, Group or User). In all the sections, there will be icons indicating whether the graphs include information from Android and iOS or just one of them
 
@@ -47,7 +51,7 @@ The Dashboard status bar shows the current status of all the company's users and
 
 This indicator displays the total number of device users using the **\<NomeProduto>** application.
 
-### Total Licenses <a href="#id-3awqvm692ar0" id="id-3awqvm692ar0"></a>
+### T**otal of Licenses Contracted** <a href="#id-3awqvm692ar0" id="id-3awqvm692ar0"></a>
 
 This indicator shows the total number of licenses on the portal. In other words, the licenses available and used.
 
@@ -65,10 +69,8 @@ This indicator displays the total number of devices that are active in the syste
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-* **TOTAL -** These devices are considered "Active" when installing and activating the **\<NomeProduto>** application.
-
-By clicking on "Total" the indicator will display the "Device List" screen containing the report with the main information on active devices.
-
+* **TOTAL -** These devices are considered "Active" when installing and activating the **\<NomeProduto>** application. \
+  By clicking on "Total" the indicator will display the "Device List" screen containing the report with the main information on active devices.
 * **NO COMMUNICATION** - This indicator displays the total number of devices that have not been sending data to the servers for an extended period. When you click on "No Communication", the system displays the screen of devices without communication.
 
 Communication is the synchronization of information that the device has captured and that is sent to the portal. This lack of communication can occur when the device is in the following situations:
@@ -122,17 +124,13 @@ The chart will display:
 
 ### Data Consumption per application <a href="#id-2bn6wsx" id="id-2bn6wsx"></a>
 
-This chart displays the name and percentage value of the top 5 apps that consumed the most mobile data and the top 5 apps that consumed the most Wi-Fi data during the cycle. Simply click on the desired view option (Mobile Data or Wi-Fi). The displayed data is sorted by percentage.
+This graph displays the name and percentage value of the top 5 apps that consumed the most mobile data and the top 5 apps that consumed the most WiFi data during the cycle. Simply click on the desired view option (Mobile Data or WiFi). The displayed data is sorted according to the percentage.
 
-The percentage value of each of the 5 applications is calculated in relation to the total sum of consumption of all applications during the cycle.
+The percentage value for each of the top 5 apps is calculated based on the total data consumption of all apps during the cycle. The data is updated each time the screen is accessed.
 
-By clicking on the "View complete list" button, the system will display the screen with information on all the applications. To find out how to use this screen, read the "[Applications](configuracoes/editar-politica/aplicativos/)" section of this manual.
+By clicking the “View full list” button, the system will display a screen with the information of all the apps. To learn how to use this screen, refer to the **Apps** section of this manual.
 
-{% hint style="info" %}
-**NOTE**
-
-Indicator only available for Android.
-{% endhint %}
+This feature provides users with a more detailed and specific view of data consumption, allowing for more accurate and segmented analysis, both on mobile networks and WiFi.
 
 ### Data consumption per user <a href="#qsh70q" id="qsh70q"></a>
 
