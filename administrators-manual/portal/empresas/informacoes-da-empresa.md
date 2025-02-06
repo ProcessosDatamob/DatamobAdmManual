@@ -55,10 +55,10 @@ Step by step to obtain the content token
 * Find and select applications
 * Approve selected applications
 
-3. Download and Install **\<NomeProduto>** Profile on Devices via Apple Configurator (via Cable):&#x20;
+3. Download and Install **Datamob Enterprise** Profile on Devices via Apple Configurator (via Cable):&#x20;
 
 * Connect the devices to the computers using a USB cable
-* Open Apple Configurator and import the **\<NomeProduto>** profile&#x20;
+* Open Apple Configurator and import the **Datamob Enterprise** profile&#x20;
 * Apply the profile to the connected devices, ensuring that the appropriate settings are implemented
 
 4. Insertion of the Content Token in the Administrator Portal:
@@ -68,7 +68,7 @@ Step by step to obtain the content token
 * Download the ABM Content Token
 * Open the downloaded file and copy the "Content token"
 
-Insert the Content Token in the Administrator **\<NomeProduto>** Portal :
+Insert the Content Token in the Administrator **Datamob Enterprise** Portal :
 
 5. Enter the content token copied from the downloaded file in the "Content Token" field;
 6. Click on "Update" to save the company information.

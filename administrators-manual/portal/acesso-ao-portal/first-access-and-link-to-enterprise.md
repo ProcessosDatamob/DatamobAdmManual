@@ -1,6 +1,6 @@
 # First Access and Link to Enterprise
 
-When the product **\<NomeProduto>** is activated for a company, the following tasks are performed by the system to enable the company's administrator user to access the Portal:
+When the product **Datamob Enterprise** is activated for a company, the following tasks are performed by the system to enable the company's administrator user to access the Portal:
 
 * Creation of credentials for the Administration Portal;
 * Sending a welcome e-mail containing credentials and a link to access the Administration Portal.

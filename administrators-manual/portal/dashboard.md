@@ -49,7 +49,7 @@ The Dashboard status bar shows the current status of all the company's users and
 
 ### Total Users <a href="#id-2jxsxqh" id="id-2jxsxqh"></a>
 
-This indicator displays the total number of device users using the **\<NomeProduto>** application.
+This indicator displays the total number of device users using the **Datamob Enterprise** application.
 
 ### T**otal of Licenses Contracted** <a href="#id-3awqvm692ar0" id="id-3awqvm692ar0"></a>
 
@@ -69,7 +69,7 @@ This indicator displays the total number of devices that are active in the syste
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-* **TOTAL -** These devices are considered "Active" when installing and activating the **\<NomeProduto>** application. \
+* **TOTAL -** These devices are considered "Active" when installing and activating the **Datamob Enterprise** application. \
   By clicking on "Total" the indicator will display the "Device List" screen containing the report with the main information on active devices.
 * **NO COMMUNICATION** - This indicator displays the total number of devices that have not been sending data to the servers for an extended period. When you click on "No Communication", the system displays the screen of devices without communication.
 
@@ -165,7 +165,7 @@ This indicator shows the percentage of the 5 most accessed sites on devices duri
 {% hint style="warning" %}
 **IMPORTANT**
 
-The websites visited are retrieved by the **\<NomeProduto>** system's default web browser . This browser is called **Security Browser** and must be installed and configured on the devices. For details on managing and configuring the browser, see the [Security Browser](configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md) chapter.
+The websites visited are retrieved by the **Datamob Enterprise** system's default web browser . This browser is called **Security Browser** and must be installed and configured on the devices. For details on managing and configuring the browser, see the [Security Browser](configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md) chapter.
 {% endhint %}
 
 ### Consumption indicator and history. <a href="#id-147n2zr" id="id-147n2zr"></a>

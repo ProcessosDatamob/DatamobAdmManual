@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V8.0.0
+# Release Notes Datamob Enterprise V8.0.0
 
 ### Version Highlights
 

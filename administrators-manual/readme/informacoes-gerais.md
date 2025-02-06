@@ -16,10 +16,10 @@ layout:
 
 ### Solution Overview <a href="#tyjcwt" id="tyjcwt"></a>
 
-&#x20;**\<NomeProduto>** is a Corporate Mobility Management solution composed of:
+&#x20;**Datamob Enterprise** is a Corporate Mobility Management solution composed of:
 
-* **Administration Portal** **\<NomeProduto> -** web system that manages all  the company's mobile devices.
-* **\<NomeProduto> app -** Android app that collects usage and cosumption information from mobile devices. This app is installed by default in all devices enrolled in the system.
+* **Administration Portal** **Datamob Enterprise -** web system that manages all  the company's mobile devices.
+* **Datamob Enterprise app -** Android app that collects usage and cosumption information from mobile devices. This app is installed by default in all devices enrolled in the system.
 * **Security Browser App -** Android Web browser app responsible for blocking web sites and monitoring user's navigation.
 * **Block SIM app -** Is responsible for blocking the SIM Card,  preventing from being used in another device.
 * **Mob Settings App** - This app is designed to streamline the management of essential mobile device settings, such as Bluetooth, Display, and Wi-Fi, without the need to directly access the device's settings menu.
@@ -31,7 +31,7 @@ layout:
 * To use SIM card blocking, when creating a new policy you must choose the "Android - Block SIM" management type, so that the system automatically adds the Block SIM application, restricts device password changes and ensures that the SIM card is linked to the device. When registering the device, the user must follow the installation steps and grant the requested permissions. More details on the SIM blocking process can be found in the "Block SIM Installation Manual".&#x20;
 {% endhint %}
 
-From **\<NomeProduto>** you can access information on the consumption and use of the devices allocated to a company's employees. It is also possible to define blocking policies to restrict improper use of the devices, enabling the administrator to evaluate and increase employee productivity by analyzing and managing the company's telecommunications resources.&#x20;
+From **Datamob Enterprise** you can access information on the consumption and use of the devices allocated to a company's employees. It is also possible to define blocking policies to restrict improper use of the devices, enabling the administrator to evaluate and increase employee productivity by analyzing and managing the company's telecommunications resources.&#x20;
 
 ### Data Flow <a href="#id-3dy6vkm" id="id-3dy6vkm"></a>
 
@@ -64,7 +64,7 @@ The Android Enterprise Recommended label identifies Android devices that meet ce
 
 Just because a device isn't on Google's list of recommended devices doesn't mean it won't work. Android Enterprise is currently compatible with all versions of Android 6.0. However, some features may not be available on earlier versions of the operating system. It is recommended that you use the latest versions of Android to take advantage of all the features and benefits that the platform offers.&#x20;
 
-It is important to note that the **\<NomeProduto>** has been developed with Google Android Enterprise and other additional technologies, which means that some functions, such as location, battery consumption and storage, may behave differently than expected, depending on the device's operating system settings.
+It is important to note that the **Datamob Enterprise** has been developed with Google Android Enterprise and other additional technologies, which means that some functions, such as location, battery consumption and storage, may behave differently than expected, depending on the device's operating system settings.
 
 {% hint style="info" %}
 **Important**\

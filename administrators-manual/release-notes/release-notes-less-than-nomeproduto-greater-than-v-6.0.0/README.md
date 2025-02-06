@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 6.0.0
+# Release Notes Datamob Enterprise V 6.0.0
 
 ### Version Highlights
 

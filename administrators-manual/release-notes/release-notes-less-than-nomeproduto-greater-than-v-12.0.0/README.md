@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 12.0.0
+# Release Notes Datamob Enterprise V 12.0.0
 
 In this version, bug fixes have been implemented as listed in the next section:
 

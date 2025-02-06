@@ -170,7 +170,7 @@ Applications sent via remote installation, through the "Remote Application Insta
 1. Icons to access the "Operational Restrictions" option;&#x20;
 2. Toggle button to activate restrictions.&#x20;
 
-The "Operational Restrictions" option is available for all applications except: the system application **\<NomeProduto>**, Kiosk Launcher, Block Sim, and Remote View. When an application already has operational restrictions, its operational restrictions icon will change to ![](<../../../../../.gitbook/assets/image (53).png>). &#x20;
+The "Operational Restrictions" option is available for all applications except: the system application **Datamob Enterprise**, Kiosk Launcher, Block Sim, and Remote View. When an application already has operational restrictions, its operational restrictions icon will change to ![](<../../../../../.gitbook/assets/image (53).png>). &#x20;
 
 To activate the restrictions:&#x20;
 

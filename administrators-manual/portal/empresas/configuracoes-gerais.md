@@ -27,7 +27,7 @@ To find out how to set up the company, follow the steps described in this sectio
 * **Cycle start** - We use this field to define the start date for the accounting of the data to be analyzed;
 * **Synchronize every** - This field defines the portal's synchronization time, i.e. the time to synchronize with the data received from the devices;
 * **Warning Email** - This setting enables an email notification to be sent to the administrator when the device reaches 80%, 90% and 100% of the configured consumption profile;
-* **Two-Factor Authentication** - This setting allows you to enable two-factor authentication on the **\<NomeProduto>** Administration Portal. After enabling this setting, whenever attempting to access the Portal, the user will need to provide a confirmation code that will be sent to their email.
+* **Two-Factor Authentication** - This setting allows you to enable two-factor authentication on the **Datamob Enterprise** Administration Portal. After enabling this setting, whenever attempting to access the Portal, the user will need to provide a confirmation code that will be sent to their email.
 
 {% hint style="info" %}
 **NOTE**

@@ -14,11 +14,11 @@ layout:
 
 # Initial Settings and Levels
 
-Ao acessar o Portal **\<NomeProduto>**, o usuário terá acesso às configurações e funcionalidades.
+Ao acessar o Portal **Datamob Enterprise**, o usuário terá acesso às configurações e funcionalidades.
 
 ### Initial Settings <a href="#id-26in1rg" id="id-26in1rg"></a>
 
-When accessing the **\<NomeProduto>** Portal, the user will have access to the settings and functionalities.
+When accessing the **Datamob Enterprise** Portal, the user will have access to the settings and functionalities.
 
 * **Consumption Profile** - so that all captured data can be analyzed correctly (detailed in the "[Consumption Profile](configuracoes/perfil-de-consumo.md)" section of this manual).
 * **Cycle start day** - to set the start date for accounting the data that will be analyzed (detailed in the "[General Settings](empresas/configuracoes-gerais.md)" section of this manual).

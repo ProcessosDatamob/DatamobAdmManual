@@ -14,7 +14,7 @@ layout:
 
 # Documents and Support Material
 
-On this screen you can download the documents and support materials for using the **\<NomeProduto>** solution.
+On this screen you can download the documents and support materials for using the **Datamob Enterprise** solution.
 
 To access the materials, simply select the Help menu and the Documents and Support Materials submenu.
 

@@ -14,7 +14,7 @@ layout:
 
 # Share Documents
 
-The purpose of this system screen is to enable the user to share documents with all the company's devices, one or more groups or one or more users of specific devices. For this to be possible, the file must be on a server with public access to a URL and in an HTTPS environment. If the file is not in these conditions, it will not be downloaded by the **\<NomeProduto>** application. The application will receive the URL of the document in the form of a notification.
+The purpose of this system screen is to enable the user to share documents with all the company's devices, one or more groups or one or more users of specific devices. For this to be possible, the file must be on a server with public access to a URL and in an HTTPS environment. If the file is not in these conditions, it will not be downloaded by the **Datamob Enterprise** application. The application will receive the URL of the document in the form of a notification.
 
 To find out how to share documents with devices, follow the steps described in this section.
 

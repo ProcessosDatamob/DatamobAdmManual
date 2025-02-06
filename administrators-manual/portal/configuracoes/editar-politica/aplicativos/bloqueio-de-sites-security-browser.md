@@ -16,7 +16,7 @@ layout:
 
 Security Browser is a secure and easy-to-use browser. Designed for Android, Security Browser allows device administrators to control and monitor the websites accessed by users, to ensure safer use and controlled data consumption.&#x20;
 
-Website blocking is carried out by the Security Browser application. It is part of the system **\<NomeProduto>** and its purpose is to configure website blocking by URL, keyword and category. It is also responsible for recording and transmitting the user's browsing history to the administration portal, allowing reports and rankings of sites visited to be drawn up.&#x20;
+Website blocking is carried out by the Security Browser application. It is part of the system **Datamob Enterprise** and its purpose is to configure website blocking by URL, keyword and category. It is also responsible for recording and transmitting the user's browsing history to the administration portal, allowing reports and rankings of sites visited to be drawn up.&#x20;
 
 It is therefore important to note that installing and configuring the Security Browser application is essential for the correct performance of the functionalities related to blocking and monitoring visited websites.
 

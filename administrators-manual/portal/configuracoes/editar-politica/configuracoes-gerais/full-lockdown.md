@@ -21,7 +21,7 @@ To lock devices outside of working hours, follow these steps:
 Leaving the fields blank will cause the system to consider the entire day.
 {% endhint %}
 
-When the device is outside the configured working hours, \<NomeProduto> will hide all device apps except "Phone," "\<NomeProduto>," and "Play Store."
+When the device is outside the configured working hours, Datamob Enterprise will hide all device apps except "Phone," "Datamob Enterprise," and "Play Store."
 
 The installed apps on the device will only be hidden, and a fixed notification will appear on the device with the following message: "App access blocked by administrator."
 

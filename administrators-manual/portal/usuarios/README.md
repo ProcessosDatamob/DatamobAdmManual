@@ -28,4 +28,4 @@ This type of user will only be able to view and change the members and informati
 
 ### Device Users <a href="#id-37m2jsg" id="id-37m2jsg"></a>
 
-These users will be created during the process of activating the **\<NomeProduto>** application on the device. Once the application has been activated, you can view this user's information in the Portal.
+These users will be created during the process of activating the **Datamob Enterprise** application on the device. Once the application has been activated, you can view this user's information in the Portal.

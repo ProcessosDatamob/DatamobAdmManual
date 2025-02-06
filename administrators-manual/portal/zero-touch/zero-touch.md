@@ -20,7 +20,7 @@ To start using Zero Touch, follow these steps:
 
 1. Contact the Operator to purchase the handsets (if necessary) and request the creation of a Zero Touch customer account.
 2. Wait for the operator to create your Zero-Touch account
-3. Once the Zero-Touch account has been created, access the **\<NomeProduto>** Portal, the "Zero Touch" menu and link the account to the **\<NomeProduto>** Portal following the process after selecting the "Next" button.
+3. Once the Zero-Touch account has been created, access the **Datamob Enterprise** Portal, the "Zero Touch" menu and link the account to the **Datamob Enterprise** Portal following the process after selecting the "Next" button.
 4. Enter username and password and confirm
 
 ### Configuring devices for Zero-Touch <a href="#id-3bj1y38" id="id-3bj1y38"></a>
@@ -44,7 +44,7 @@ You need to fill in the following fields, which will identify you as the user of
 * "Support e-mail address": Enter your company's support e-mail address;&#x20;
 * "Support phone number": Enter your company's support phone number.
 
-3. In the **\<NomeProduto>** Portal, define which policy will be applied to Zero-Touch. This can be a new policy or an existing one, so you can configure the policy manually in the Zero-Touch configuration by following the steps below:
+3. In the **Datamob Enterprise** Portal, define which policy will be applied to Zero-Touch. This can be a new policy or an existing one, so you can configure the policy manually in the Zero-Touch configuration by following the steps below:
 
 * Go to the "Settings" menu of ;&#x20;
 * Select the "Manage Policies" option;&#x20;
@@ -54,7 +54,7 @@ You need to fill in the following fields, which will identify you as the user of
 4. In the Zero-Touch portal, add this information in the "DPC Extras" field of the desired Zero-Touch Configuration
 5. Identify the IMEI corresponding to the device you want to register in the configuration created
 
-* Access the **\<NomeProduto>** portal;&#x20;
+* Access the **Datamob Enterprise** portal;&#x20;
 * Select the "Devices" menu;&#x20;
 * Select the "Device List" submenu;&#x20;
 * Locate the device and copy the IMEI information.
