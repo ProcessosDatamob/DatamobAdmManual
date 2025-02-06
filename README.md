@@ -19,4 +19,4 @@ layout:
 
 # INTRODUCTION
 
-This manual is intended to assist administrator users in using and configuring **\<NomeProduto>.**
+**This manual is intended to assist administrator users in using and configuring \<NomeProduto>.**
