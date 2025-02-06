@@ -25,11 +25,11 @@ To access the "Kiosk Mode" settings, follow these steps:
 
 3. A confirmation message will appear on the screen. Confirm by clicking on the "**Activate**" button.
 
-<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 4. When you activate Kiosk Mode in the policy and provision a device with this policy, the Kiosk Launcher Manager application will be automatically installed on the device;
 
-<figure><img src="../../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 When the device installs the Kiosk application, the application will capture a list of all the applications installed on the device and send this list to the Portal. It will also send the following managed settings to the portal.
 

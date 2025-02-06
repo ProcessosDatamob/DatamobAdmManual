@@ -37,6 +37,6 @@ Before enabling this setting, ensure that all users are registered with a valid 
 
 * **Inactivity Timeou**t - the system uses 30 minutes as the default, which can be reduced to as little as 5 minutes. After exceeding the defined time limit without performing any activity on the portal, the system will automatically log the user out and display a message informing that the session has expired.
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on "Update".

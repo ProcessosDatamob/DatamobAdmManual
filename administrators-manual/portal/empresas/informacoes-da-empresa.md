@@ -10,7 +10,7 @@ To view or change company data, follow the steps below:
 3. The information in all the other fields can be changed.
 4. Once finished, click on "Update" to save the changes.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Delete Company <a href="#id-2grqrue" id="id-2grqrue"></a>
 
@@ -37,7 +37,7 @@ Upon clicking the "Delete Company" button, the following confirmation screen wil
 
 The screen below appears when you click on "**Delete Company**".
 
-<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 ### Apple Business Manager <a href="#id-2grqrue" id="id-2grqrue"></a>
 

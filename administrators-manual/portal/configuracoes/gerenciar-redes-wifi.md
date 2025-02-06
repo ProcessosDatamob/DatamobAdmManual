@@ -20,11 +20,11 @@ The purpose of this screen is to enable the user to configure Wi-Fi networks. To
 
 Upon accessing the submenu, the screen below will be displayed. Click on "Add":
 
-<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 After clicking on "Add," the following screen for entering Wi-Fi network details will be displayed. All fields must be filled out. Once completed, click "Save."
 
-<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 * **Configuration Name**: Customized identification for the configured Wi-Fi network.
 * **SSID**: Name of the Wi-Fi network that will be displayed to users.

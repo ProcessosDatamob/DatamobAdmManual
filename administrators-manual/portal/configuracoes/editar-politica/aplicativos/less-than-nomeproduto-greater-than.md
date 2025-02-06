@@ -5,11 +5,11 @@ Within Managed Settings, Optional Permissions have been created for to enable ac
 
 To access "Optional Permissions," click on the three dots "..." at the end of the row, then select "Managed Settings" for .
 
-<figure><img src="../../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 When expanding "Optional Permissions," various options will be displayed, allowing you to enable or disable each setting individually.
 
-<figure><img src="../../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 **Optional Permissions** include the following settings:
 

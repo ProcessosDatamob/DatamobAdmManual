@@ -19,7 +19,7 @@ The system will display a list of the applications installed on the company's de
 7. Sort the device list by the columns using the "↑↓" arrows.
 8. By clicking on the ellipsis "...", and selecting “View Installation”, you can access the “Application Submission Details” screen.
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 **Install Application**
 
@@ -35,7 +35,7 @@ To remotely install an application, follow these steps:
 Upon confirming the submission, the system will display a success message, send an app installation push notification to all devices of the selected policy and users, and add the app package to the policy of all selected devices as "Available."
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### NOTE

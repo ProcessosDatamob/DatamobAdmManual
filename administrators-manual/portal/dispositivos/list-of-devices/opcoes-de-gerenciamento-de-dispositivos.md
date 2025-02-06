@@ -18,7 +18,7 @@ layout:
 
 And by clicking on the ellipsis "..." on the right in the list of devices, the options for consulting and configuring the device appear
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 The available options vary according to the Management Mode of the policy to which the device is linked and are highlighted in the following image:
 
@@ -32,13 +32,13 @@ When you choose the Change Policy option, a dialog box will appear in the center
 
 The policy defines settings, including criteria for hardware, software, operating system, security, etc. To find out more about Policies, read the settings section of this manual.
 
-<figure><img src="../../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 ### Disable Device
 
 When you send the Deactivate Devices command, all non-Google applications will be deactivated, phone calls will be allowed and the device status will change to deactivated. To deactivate a device, use the "Deactivate Device" option in the device options menu. This option only appears for devices that are in "Active" status. A confirmation screen will appear.
 
-<figure><img src="../../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Deactivate" button to confirm the operation.
 
@@ -100,7 +100,7 @@ Fill in the "New password" and "Confirm new password" fields with the same value
 
 Lock the device after the password has been reset.
 
-<figure><img src="../../../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### NOTE
@@ -182,7 +182,7 @@ This functionality helps prevent potential SIM lock issues that may arise when r
 
 Clicking on the "Manage" option will display the Device Management screen.
 
-<figure><img src="../../../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 This screen groups the Device Commands and Actions that we detailed earlier, based on the Management Mode or Operating System. The behavior of each functionality will be the same as in the "Device List" screen.
 

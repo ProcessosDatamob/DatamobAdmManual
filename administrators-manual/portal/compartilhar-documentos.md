@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# SHARE DOCUMENTS
+# Share Documents
 
 The purpose of this system screen is to enable the user to share documents with all the company's devices, one or more groups or one or more users of specific devices. For this to be possible, the file must be on a server with public access to a URL and in an HTTPS environment. If the file is not in these conditions, it will not be downloaded by the **\<NomeProduto>** application. The application will receive the URL of the document in the form of a notification.
 
@@ -20,11 +20,11 @@ To find out how to share documents with devices, follow the steps described in t
 
 1. Click on the "Share Documents" menu to access the screen.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the "Share new" button to share a document. The Share documents screen appears below:
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill in the URL where the document is hosted in the Document field.
 4. To share the document with all the company's devices, select the company.

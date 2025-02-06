@@ -34,10 +34,10 @@ Click on the "**User**" filter and enter and select the user to display the info
 
 In the top right-hand corner of the screen, there are some icons that have the following functions:
 
-*   Notifications - The icon ![](<../../.gitbook/assets/image (33).png>) allows the administrator to see the portal's notifications, for example, when requesting the generation of a report.
+*   Notifications - The icon ![](<../../.gitbook/assets/image (44).png>) allows the administrator to see the portal's notifications, for example, when requesting the generation of a report.
 
 
-* Admin - The icon ![](<../../.gitbook/assets/image (34).png>) displays the option for the administrator to exit the portal and also displays the current version of the solution and the version number.
+* Admin - The icon ![](<../../.gitbook/assets/image (45).png>) displays the option for the administrator to exit the portal and also displays the current version of the solution and the version number.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-30 180706.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ In the top right-hand corner of the screen, there are some icons that have the f
 
 The Dashboard status bar shows the current status of all the company's users and licenses
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### Total Users <a href="#id-2jxsxqh" id="id-2jxsxqh"></a>
 
@@ -67,7 +67,7 @@ When you click on this indicator, the system will display the "Contracted licens
 
 This indicator displays the total number of devices that are active in the system and the devices without communication. It also allows the administrator to see which devices are in Kiosk Mode.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * **TOTAL -** These devices are considered "Active" when installing and activating the **\<NomeProduto>** application. \
   By clicking on "Total" the indicator will display the "Device List" screen containing the report with the main information on active devices.
@@ -184,11 +184,11 @@ To carry out an individual analysis of device users, click on "[**Device List**]
 
 The map displays the last location of the devices. For the location to be displayed and updated, the device must be connected to the internet, there must be a GPS signal and the "Location Mode" setting must be "Active" under Location in the policy applied to the device.
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 If the system does not load the locations on the map, click the "Show locations" button, and they will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 * **Blue**: greater than or equal to 5
 * **Yellow**: greater than or equal to 10
@@ -210,7 +210,7 @@ On this screen we will have access to the manuals for download. Clicking on Know
 
 Through the "**Any Questions?**" section, you can access the screen where you can see the frequently asked questions by users:
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on "Learn More," you will be directed to the following screen, where you can perform a search using the free text field or filter by category.
 

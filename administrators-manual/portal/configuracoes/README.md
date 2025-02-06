@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# SETTINGS
+# Settings
 
 The settings menu gives you access to the settings for consumption profiles and device management policies.
 
@@ -28,6 +28,6 @@ The settings menu options are:
 * **iOS Registration Policy** - allows you to update an iOS policy.
 * **Manage Wi-Fi Networks** - allows you to register Wi-Fi networks that will later be used in the Policy Settings;
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 The five options in the "Settings" menu are detailed in the following subsections.

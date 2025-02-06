@@ -8,7 +8,7 @@ The Application Information submenu shows information about the device's applica
 4. To search for a specific application, type the name of the application in the Search field;&#x20;
 5. To export the devices report, click on the "Excel" button;&#x20;
 6. To copy the device information, click on the "Copy" button;&#x20;
-7. Sort the list of applications into columns by clicking on the arrows “![](<../../../.gitbook/assets/image (220).png>)”&#x20;
+7. Sort the list of applications into columns by clicking on the arrows “![](<../../../.gitbook/assets/image (231).png>)”&#x20;
 8. Use the three dots "..." to display the actions menu and view the application details;
 
 ### Consumption History

@@ -10,7 +10,7 @@ To add the app to the company’s Managed Apps list, go to the "App Management" 
 1. Use the search field to find "Mob Settings."
 2. Select the "Mob Settings" app.
 
-<figure><img src="../../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 3. A screen with more information about the app will open. Click the "Select" button.
 4. Click the "Confirm" button to complete the addition.
@@ -23,7 +23,7 @@ To add the app to the company’s Managed Apps list, go to the "App Management" 
 11. Check the checkbox at the end of the line where the Mob Settings app is listed.
 12. Click the "Add Selected" button.
 
-<figure><img src="../../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 After adding the app to the policy, the app settings can be configured. The next subsection explains how to configure Mob Settings.
 
@@ -33,11 +33,11 @@ After adding the app to the policy, the app settings can be configured. The next
 2. Select the "Installation Type" for Mob Settings as either "Forced Installation" or "Pre-installed."
 3. Click on "Managed Settings" to open the Mob Settings managed settings screen.
 
-<figure><img src="../../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on Managed Settings will display the following screen:
 
-<figure><img src="../../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 The Managed Settings for Mob Settings are:
 

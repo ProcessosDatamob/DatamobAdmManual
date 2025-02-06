@@ -16,7 +16,7 @@ layout:
 
 As seen in the previous section, it is possible to access the device registration token in the "Settings" menu under the "Manage Policies" option. The registration token screen is shown below.
 
-<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 The items available on this screen are described below:
 

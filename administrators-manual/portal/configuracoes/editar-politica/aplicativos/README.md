@@ -53,7 +53,7 @@ To access the managed settings of an application, navigate to the "Edit Policy" 
 1. Locate the desired application and click on the three dots "..." at the end of the row.
 2. Click on "Managed Settings."
 
-<figure><img src="../../../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 On this screen, you can view the identification of the selected application and the chosen configuration screen ("Managed Settings").
 
@@ -115,11 +115,11 @@ The Add apps option will behave differently when Kiosk Mode is enabled or disabl
 
     When clicking the "Add Applications" button, if it is a policy with Kiosk Mode deactivated, two options will be displayed: Playstore, which includes the list of applications added using Managed Google Play, and Manual, which allows adding applications manually.
 
-<figure><img src="../../../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 * Kiosk Mode Enabled: If the policy being edited is a policy with Kiosk Mode Enabled, clicking on the Add applications button will display the 3 options for adding applications.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 #### System
 
@@ -151,7 +151,7 @@ The installation type will be set to "Available" and will allow changing the app
 If the application is not on Google Play, the "Pre-installed" and "Forced Installation" options will have the same effect as the "Available" option. This means that the application will be available for installation, and the user has the option to install it at their convenience. It is not automatically installed on the device.
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**&#x20;
@@ -170,7 +170,7 @@ Applications sent via remote installation, through the "Remote Application Insta
 1. Icons to access the "Operational Restrictions" option;&#x20;
 2. Toggle button to activate restrictions.&#x20;
 
-The "Operational Restrictions" option is available for all applications except: the system application **\<NomeProduto>**, Kiosk Launcher, Block Sim, and Remote View. When an application already has operational restrictions, its operational restrictions icon will change to ![](<../../../../../.gitbook/assets/image (42).png>). &#x20;
+The "Operational Restrictions" option is available for all applications except: the system application **\<NomeProduto>**, Kiosk Launcher, Block Sim, and Remote View. When an application already has operational restrictions, its operational restrictions icon will change to ![](<../../../../../.gitbook/assets/image (53).png>). &#x20;
 
 To activate the restrictions:&#x20;
 

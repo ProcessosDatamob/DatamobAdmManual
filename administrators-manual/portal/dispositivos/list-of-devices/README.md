@@ -44,7 +44,7 @@ The following screen will be displayed:
 
 When you click on the "Batch Actions" option, the system will display a screen containing some fields to fill in, as shown in the screen below.
 
-<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 * Company: click on the company field and select the company name to send a command to all devices of the company (when selecting the company, the group and user fields will be disabled).&#x20;
 * Groups: click on group and choose the desired group.&#x20;

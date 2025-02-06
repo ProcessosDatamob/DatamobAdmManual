@@ -47,11 +47,11 @@ Once the application has been included in the policy, the blocking settings can 
 2. Select the "Installation Type" for the Security Browser as either "Forced Installation" or "Pre-installed."&#x20;
 3. Click on "Managed Settings" to open the managed settings screen for the Security Browser.
 
-<figure><img src="../../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on Managed Settings will display the following screen:
 
-<figure><img src="../../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 The Managed Settings for the Security Browser are:
 

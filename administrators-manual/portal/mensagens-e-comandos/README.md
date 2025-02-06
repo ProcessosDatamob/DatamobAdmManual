@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# MESSAGES AND COMMANDS
+# Messages and Commads
 
 The purpose of this system screen is to enable the user to send messages and commands to all the company's devices, to one or more groups or to one or more users of specific devices. Messages and commands are sent via PUSH and do not generate SMS consumption.
 
@@ -40,7 +40,7 @@ To find out how to send messages and commands, follow the steps described in thi
 1. Click on the "Messages" menu to access the screen.
 2. To send messages and commands, click on the "New Message" button.
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 3. You can send messages to all the company's devices, to one or more groups or to one or more users of specific devices.
 
@@ -57,7 +57,7 @@ If a device is entered in two fields (e.g. group and user), it will receive two 
 6. Click on the "Send" button to place the message or command in the send queue.
 7. When you place the message or command in the send queue, the system will display the command or message in the send report.
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 8. If you want to select a specific period, you can select the dates in the Filter field;
 9. After selecting the dates, click on Search. If you want to search without selecting dates, just click on Search;

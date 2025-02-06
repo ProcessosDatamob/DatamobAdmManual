@@ -4,7 +4,7 @@ This feature allows the administrator to configure a full lockdown of the device
 
 In the "Settings" tab on the "Edit Policies" screen, click "Full Lockdown" to view configuration options.
 
-<figure><img src="../../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 #### **Lock Outside Working Hours**
 
@@ -14,7 +14,7 @@ To lock devices outside of working hours, follow these steps:
 2. Fill in the "Working Days" field with the workdays in the week, specifying the start and end days.
 3. Fill in the "Working Hours" field with the start and end times for the workday.
 
-<figure><img src="../../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**\
