@@ -20,7 +20,7 @@ To access the Consumption Profile screen, go to the "Settings" menu and the "Con
 
 The following figure shows the consumption profile configuration screen which is accessed from the "Settings" menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 The limits can be set to:
 

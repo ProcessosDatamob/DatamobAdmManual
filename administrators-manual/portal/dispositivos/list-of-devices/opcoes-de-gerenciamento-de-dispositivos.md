@@ -60,6 +60,25 @@ This operation sends a command to restart the device. Choose the "Restart Device
 
 This option allows the administrator to set the screen lock password for Block SIM, enabling remote password change. In the Device List, click on "Generate New Screen Lock Password," enter and confirm the new Screen Lock Password using letters, numbers, and symbols. Confirm the password change, and upon confirmation, the command will be sent via push to the Management App for application on the device.
 
+1. In the Device List, click the three dots "...".
+2. Click the option "Generate New Lock Screen Password."
+3. Enter and confirm the new Lock Screen password, using letters, numbers, and symbols.
+4. Confirm the password change, and upon confirmation, the command will be sent via push to for application on the device.
+5. The device will receive the command via push.
+
+Once the password is changed, Block SIM will receive the new password and activate the lock screen with the newly defined password.
+
+{% hint style="info" %}
+**Limitations with Block SIM**\
+When the device is configured in a policy with Block SIM active, incoming calls cannot be answered without unlocking the screen first.
+
+**Guidance**\
+If answering calls is necessary even with the screen locked:
+
+* Evaluate if the Block SIM policy is suitable for these specific cases.
+* Communicate this limitation to the end users.
+{% endhint %}
+
 ### Remove Screen Lock
 
 This operation sends a command to remove the screen lock from the device. Choose the "Remove Screen Lock" option. A message is displayed on the portal screen to confirm that the command has been sent.
@@ -184,15 +203,15 @@ Below is the explanation of each tab:
 
 When you open the Device Management screen, the first tab, "Information," is pre-selected. In this tab, you can edit the following device data: User, Identification, Group, Department, and User Phone Number.
 
-<figure><img src="../../../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 In addition to being able to edit the data, lower down the screen, there are lists displaying Details, Installation, Hardware, Permissions, Connectivity, and SIM, all related to the managed device.
 
-<figure><img src="../../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 The sections are detailed on the Device Information page: "Details," "Installation," "Hardware," "Permissions," "Connectivity," and "SIM."
 

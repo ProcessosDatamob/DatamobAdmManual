@@ -33,4 +33,4 @@ Settings can be made at three levels (Company/Group/User) and these settings are
 
 The following image shows the consumption profile configuration screen which is accessed from the "**Settings**" menu. A rectangle highlights access to the "General", "Groups" and "Users" tabs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

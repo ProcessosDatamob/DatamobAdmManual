@@ -1,36 +1,36 @@
-# DASHBOARD
-
-<mark style="color:red;background-color:orange;">ALTERAR TODAS AS IMAGENS PARA APARECER O ÍCONE DE INFORMAÇÕES</mark>
+# Dashboard
 
 The purpose of this system screen is to enable the user to view and analyze the various consumption and usage data collected from the devices. All this data will be detailed in this section. To find out how to access and analyze the data displayed on the Dashboard, follow the steps described in this section.
 
 The Dashboard screen can be considered the "Home Screen" of the system, as it is displayed as soon as you access the Portal, but it can also be accessed by clicking on the "Dashboard" menu. On first access, the user, device and consumption indicators will not yet have any information, so they will be set to zero.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When hovering the mouse over the information icon next to each graph, you can view a detailed description that explains the data presented, making it easier to understand the displayed content and the context of the graph.
+
+![](<../../.gitbook/assets/image (1).png>)
 {% endhint %}
 
 When you access the screen, all the information will be displayed separated into sections. Each section corresponds to a different piece of data collected from the device and all the information is displayed according to the options selected in the filter (Company, Group or User). In all the sections, there will be icons indicating whether the graphs include information from Android and iOS or just one of them
 
 By enabling the "**International Roaming**" filter option in the top right-hand corner of the screen, the system will only display information collected when the devices are using a roaming connection.
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The "Company", "Group" and "User" filters allow you to analyze data from devices at a specific level.
 
 Click on the "**Company**" filter, type in and select the company name to display the information collected from all devices.
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "**Group**" filter, type in and select the name of the group, to display the information collected from all the devices that are part of a Group.
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "**User**" filter and enter and select the user to display the information collected from the user's device.
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 In the top right-hand corner of the screen, there are some icons that have the following functions:
 
@@ -45,7 +45,7 @@ In the top right-hand corner of the screen, there are some icons that have the f
 
 The Dashboard status bar shows the current status of all the company's users and licenses
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Total Users <a href="#id-2jxsxqh" id="id-2jxsxqh"></a>
 
@@ -67,7 +67,7 @@ When you click on this indicator, the system will display the "Contracted licens
 
 This indicator displays the total number of devices that are active in the system and the devices without communication. It also allows the administrator to see which devices are in Kiosk Mode.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **TOTAL -** These devices are considered "Active" when installing and activating the **\<NomeProduto>** application. \
   By clicking on "Total" the indicator will display the "Device List" screen containing the report with the main information on active devices.
@@ -188,7 +188,7 @@ The map displays the last location of the devices. For the location to be displa
 
 If the system does not load the locations on the map, click the "Show locations" button, and they will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Blue**: greater than or equal to 5
 * **Yellow**: greater than or equal to 10
